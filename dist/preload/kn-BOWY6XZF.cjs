@@ -1,0 +1,1 @@
+const e=require(`./preload.cjs`),t={code:`kn`,"local-name":`ಕನ್ನಡ`,name:`Kannada`};var n={language:t};exports.default=n;

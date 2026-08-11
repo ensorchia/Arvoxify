@@ -1,0 +1,1 @@
+const e=require(`./preload.cjs`),t={code:`eu`,"local-name":`Euskara`,name:`Basque`};var n={language:t};exports.default=n;

@@ -1,0 +1,1 @@
+const e=require(`./preload.cjs`),t={console:{plugins:{"execute-failed":`Dështoi në ekzekutimin e plugin-it {{pluginName}}::{{contextName}}`,"executed-at-ms":`Shtojca {{pluginName}}::{{contextName}} u ekzekutua në {{ms}}ms`}}};var n={common:t};exports.default=n;
