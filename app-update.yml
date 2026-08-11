@@ -1,0 +1,4 @@
+owner: chiatr
+repo: arvoxify
+provider: github
+updaterCacheDirName: arvoxify-updater
